@@ -1,7 +1,0 @@
-c:\users\dave\documents\visual studio 2015\Projects\SplitFiles\SplitFiles\bin\Debug\SplitFiles.exe.config
-c:\users\dave\documents\visual studio 2015\Projects\SplitFiles\SplitFiles\bin\Debug\SplitFiles.exe
-c:\users\dave\documents\visual studio 2015\Projects\SplitFiles\SplitFiles\bin\Debug\SplitFiles.pdb
-c:\users\dave\documents\visual studio 2015\Projects\SplitFiles\SplitFiles\obj\Debug\SplitFiles.csprojResolveAssemblyReference.cache
-c:\users\dave\documents\visual studio 2015\Projects\SplitFiles\SplitFiles\obj\Debug\SplitFiles.exe
-c:\users\dave\documents\visual studio 2015\Projects\SplitFiles\SplitFiles\obj\Debug\SplitFiles.pdb
-c:\users\dave\documents\visual studio 2015\Projects\SplitFiles\SplitFiles\bin\Debug\Delimon.Win32.IO.dll
